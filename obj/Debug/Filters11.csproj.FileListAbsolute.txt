@@ -1,0 +1,11 @@
+C:\Users\Игорь\source\repos\Filters11\bin\Debug\Filters11.exe.config
+C:\Users\Игорь\source\repos\Filters11\bin\Debug\Filters11.exe
+C:\Users\Игорь\source\repos\Filters11\bin\Debug\Filters11.pdb
+C:\Users\Игорь\source\repos\Filters11\obj\Debug\Filters11.Form1.resources
+C:\Users\Игорь\source\repos\Filters11\obj\Debug\Filters11.Properties.Resources.resources
+C:\Users\Игорь\source\repos\Filters11\obj\Debug\Filters11.csproj.GenerateResource.Cache
+C:\Users\Игорь\source\repos\Filters11\obj\Debug\Filters11.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\Filters11\obj\Debug\Filters11.exe
+C:\Users\Игорь\source\repos\Filters11\obj\Debug\Filters11.pdb
+C:\Users\Игорь\source\repos\Filters11\obj\Debug\Filters11.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\source\repos\Filters11\obj\Debug\Filters11.Form2.resources
